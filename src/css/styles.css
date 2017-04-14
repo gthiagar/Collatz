@@ -1,0 +1,13 @@
+
+body{
+	background: #c3c3c3;
+}
+
+#content{
+	max-width: 500px;
+	margin: 20px auto;
+}
+
+p#sequence{
+	text-align: center;
+}
